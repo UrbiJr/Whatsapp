@@ -19,7 +19,15 @@ The key points of this software are:
 - possibility of dynamically change language
 - very low CPU cost since it's written in C
 
-2. How to start
+2.1. Getting the repository
+---------------------------
+
+```sh
+$ sudo apt-get install git
+$ git clone https://github.com/UrbiJr/Whatsapp.git
+$ cd Whatsapp/
+```
+2.2. How to start
 -----------------
 
 First of all, download ncurses header files:
