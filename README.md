@@ -1,4 +1,4 @@
-
+;
 #[1]. Little brief of this software
 ----------------------------------
 
@@ -29,10 +29,12 @@ $ sudo apt-get install ncurses-dev
 ```
 SERVER:
 > execute command `$ make`
+
 > execute command `$ ./Whatsapp [PORT]` where PORT is the port of your address you want to use
 
 CLIENT:
 > execute command `$ make`
+
 > execute command `$ ./Whatsapp [SERVADDR] [PORT]` where SERVADDR is the server address and PORT is its port
 
 To restore the folders and delete object files: `$ make clean`
