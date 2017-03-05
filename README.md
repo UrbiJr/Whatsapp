@@ -1,3 +1,4 @@
+
 #[1]. Little brief of this software
 ----------------------------------
 
@@ -21,19 +22,20 @@ The key points of this software are:
 #[2]. How to start
 -----------------
 
-First of all, download ncurses header files: 
+First of all, download ncurses header files:
+```sh
 $ sudo apt-get update
 $ sudo apt-get install ncurses-dev
-
+```
 SERVER:
-> execute command $ make
-> execute command $ ./Whatsapp [PORT] where PORT is the port of your address you want to use
+> execute command `$ make`
+> execute command `$ ./Whatsapp [PORT]` where PORT is the port of your address you want to use
 
 CLIENT:
-> execute command $ make
-> execute command $ ./Whatsapp [SERVADDR] [PORT] where SERVADDR is the server address and PORT is its port
+> execute command `$ make`
+> execute command `$ ./Whatsapp [SERVADDR] [PORT]` where SERVADDR is the server address and PORT is its port
 
-To restore the folders and delete object files: $ make clean
+To restore the folders and delete object files: `$ make clean`
 
 
 #[3]. Contributing (for developers)
