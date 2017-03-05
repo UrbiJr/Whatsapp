@@ -1,6 +1,6 @@
 #Whatsapp
 
-##1. Little brief of this software
+1. Little brief of this software
 ----------------------------------
 
 Whatsapp is a pure C messaging application with the scope to guarantee multiuser and multilanguage support.
@@ -20,7 +20,7 @@ The key points of this software are:
 - very low CPU cost since it's written in C.
 
 
-##2. How to start
+2. How to start
 -----------------
 
 First of all, download ncurses header files:
@@ -41,7 +41,7 @@ CLIENT:
 To restore the folders and delete object files: `$ make clean`
 
 
-##3. Contributing (for developers)
+3. Contributing (for developers)
 ----------------------------------
 
 Any contribute and improvement is well accepted.
@@ -53,7 +53,7 @@ Current settings:
 Note: about the formatting of the comments above the functions, please see <https://packagecontrol.io/packages/DocBlockr>
 
 
-##4. Contact Information
+4. Contact Information
 ------------------------
 
 The maintainer of this project is Federico Urbinelli <federico.urbinelli@gmail.com>
