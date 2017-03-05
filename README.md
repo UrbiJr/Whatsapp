@@ -12,13 +12,12 @@ The name of the project has always been "Whatsapp" since the small initial progr
 I started developing this software in October 2016, and released it to the public domain in February 2017.
 
 The key points of this software are:
-- multi connections handling;
-- both server and client GUI;
-- possibility of dynamically change user;
-- possibility of dynamically add/remove user (client must reconnect);
-- possibility of dynamically change language;
-- very low CPU cost since it's written in C.
-
+- multi connections handling
+- both server and client GUI
+- possibility of dynamically change user
+- possibility of dynamically add/remove user (client must reconnect)
+- possibility of dynamically change language
+- very low CPU cost since it's written in C
 
 2. How to start
 -----------------
@@ -47,8 +46,8 @@ To restore the folders and delete object files: `$ make clean`
 Any contribute and improvement is well accepted.
 Be free to improve the code, but please respect the style and the identation.
 Current settings:
-- tab size: 4;
-- editor: Sublime Text 3;
+- tab size: 4
+- editor: Sublime Text 3
 
 Note: about the formatting of the comments above the functions, please see <https://packagecontrol.io/packages/DocBlockr>
 
