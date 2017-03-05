@@ -74,7 +74,7 @@ CURR_LANG defineLanguage(int n){
 			strcpy(lang.s56, "Premi ESC per uscire");
 			strcpy(lang.s57, "Cambia utente");
 			strcpy(lang.s58, "Cambia lingua");
-			strcpy(lang.s59, "Whatsapp 1.1.2");
+			strcpy(lang.s59, "Whatsapp 1.1");
 			break;
 		// ENG
 		case 2:
@@ -136,7 +136,7 @@ CURR_LANG defineLanguage(int n){
 			strcpy(lang.s56, "Press ESC to exit");
 			strcpy(lang.s57, "Change user");
 			strcpy(lang.s58, "Change language");
-			strcpy(lang.s59, "Whatsapp 1.1.2");
+			strcpy(lang.s59, "Whatsapp 1.1");
 			break;
 	}
 
