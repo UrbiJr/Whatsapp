@@ -30,7 +30,7 @@ $ sudo apt-get install ncurses-dev
 SERVER:
 > execute command `$ make`
 
-> execute command `$ ./Whatsapp [PORT]` where PORT is the port of your address you want to use
+> execute command `$ ./Whatsapp [PORT]` where PORT is your address port you want to use
 
 CLIENT:
 > execute command `$ make`
