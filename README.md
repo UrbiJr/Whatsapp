@@ -60,7 +60,7 @@ Current settings:
 - tab size: 4
 - editor: Sublime Text 3
 
-Documentation:
+####Documentation
 For documenting the code, please refer to <www.doxygen.org>
 
 
