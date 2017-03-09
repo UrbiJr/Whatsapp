@@ -60,7 +60,8 @@ Current settings:
 - tab size: 4
 - editor: Sublime Text 3
 
-Note: about the formatting of the comments above the functions, please see <https://packagecontrol.io/packages/DocBlockr>
+Documentation:
+For documenting the code, please refer to <www.doxygen.org>
 
 
 4. Contact Information
