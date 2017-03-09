@@ -61,7 +61,7 @@ Current settings:
 - editor: Sublime Text 3
 
 ####Documentation
-For documenting the code, please refer to <www.doxygen.org>
+For documenting the code, please refer to www.doxygen.org
 
 
 4. Contact Information
