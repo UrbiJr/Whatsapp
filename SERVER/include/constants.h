@@ -1,10 +1,8 @@
 
-/*
-
-Urbinelli Federico
-
-federico.urbinelli@gmail.com
-
+/*!	\file constants.h
+	\author F. Urbinelli federico.urbinelli@gmail.com
+	\version 1.0.0
+ 	\date 06/03/2017
 */
 
 #ifndef CONSTANTS_H
