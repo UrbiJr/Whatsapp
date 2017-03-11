@@ -1,7 +1,7 @@
 
 /*!	\file mycurses.c
 	\author F. Urbinelli federico.urbinelli@gmail.com
-	\version 1.0
+	\version 1.0.0
 	\date 06/03/2017
 	\note each function name starts with "ncurses" in order to distinguish them from the other functions
 */
