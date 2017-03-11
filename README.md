@@ -57,8 +57,8 @@ To restore the folders and delete object files: `$ make clean`
 Any contribute and improvement is well accepted.
 Be free to improve the code, but please respect the style and the identation.
 Current settings:
-- tab size: 4
-- editor: Sublime Text 3
+- indent mode: tabs
+- indent size: 4
 
 ####Documentation
 For documenting the code, please refer to www.doxygen.org
