@@ -20,11 +20,11 @@ insert_final_newline = true
 
 # Set default charset
 
-[*.{js,jsx,html,sass,scss,css}]
+[*.{c,js,jsx,html,sass,scss,css}]
 
 charset = utf-8
 
-indent_style = tab
+indent_style = space
 
 indent_size = 4
 
