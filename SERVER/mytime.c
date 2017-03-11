@@ -1,7 +1,7 @@
 
 /*!	\file mytime.c
 	\author F. Urbinelli federico.urbinelli@gmail.com
-	\version 1.0
+	\version 1.0.0
 	\date 06/03/2017
 */
 
