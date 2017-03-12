@@ -61,7 +61,7 @@ Current settings:
 - indent size: 4
 
 ####Documentation
-About the documentation of the code, just a few directives:
+About the documentation of the code with [Doxygen](https://en.wikipedia.org/wiki/Doxygen), just a few directives:
 - each new function must be documented with at least the \brief, \param and \return tags;
 - any further documentation of undocumented variables/structs is well accepted;
 - it is suggested to use the Doxygen GUI frontend (Doxywizard) for a fastest generation of the documentation.
