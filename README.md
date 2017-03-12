@@ -64,7 +64,7 @@ Current settings:
 About the documentation of the code, just a few directives:
 - each new function must be documented with at least the \brief, \param and \return tags;
 - any further documentation of undocumented variables/structs is well accepted;
-- it is suggested to use the Doxygen GUI frontend for a fastest generation of the documentation.
+- it is suggested to use the Doxygen GUI frontend (Doxywizard) for a fastest generation of the documentation.
 
 For any question about Doxygen, and how to generate the documentation, please refer to www.doxygen.org
 
