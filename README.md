@@ -1,7 +1,7 @@
 # Whatsapp
-
-<img src="whatsapp_client_1.png" height="380px" width="380px"/>
-<img src="whatsapp_client_2.png" height="380px" width="380px"/>
+Client menu             |  Client receives a message
+:-------------------------:|:-------------------------:
+![](whatsapp_client_1.png)  |  ![](whatsapp_client_2.png)
 
 1. Little brief of this software
 ----------------------------------
