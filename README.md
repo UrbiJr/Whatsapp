@@ -69,7 +69,7 @@ About the documentation of the code with [Doxygen](https://en.wikipedia.org/wiki
 For any question about Doxygen, and how to generate the documentation, please refer to www.doxygen.org  
 N.B. A copy of the current documentation is provided with this repository.  
 
-## 4. Contact Information
+## 4. Contact information
 ------------------------
 
 The maintainer of this project is Federico Urbinelli <federico.urbinelli@gmail.com>
