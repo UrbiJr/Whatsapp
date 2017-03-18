@@ -1,7 +1,7 @@
 #Whatsapp
 
-<img src="whatsapp_client_demo_1.png" height="400px" width="400px"/>
-<img src="whatsapp_client_demo_2.png" height="400px" width="400px"/>
+<img src="whatsapp_client_example_1.png" height="400px" width="400px"/>
+<img src="whatsapp_client_example_2.png" height="400px" width="400px"/>
 
 1. Little brief of this software
 ----------------------------------
