@@ -67,7 +67,7 @@ About the documentation of the code with [Doxygen](https://en.wikipedia.org/wiki
 - it is suggested to use the Doxygen GUI frontend (Doxywizard) for a fastest generation of the documentation.
 
 For any question about Doxygen, and how to generate the documentation, please refer to www.doxygen.org
-
+N.B. A copy of the current documentation is provided with this repository.
 
 4. Contact Information
 ------------------------
