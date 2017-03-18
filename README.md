@@ -1,7 +1,7 @@
-#Whatsapp
+# Whatsapp
 
-<img src="whatsapp_client_1.png" height="400px" width="400px"/>
-<img src="whatsapp_client_2.png" height="400px" width="400px"/>
+<img src="whatsapp_client_1.png" height="380px" width="380px"/>
+<img src="whatsapp_client_2.png" height="380px" width="380px"/>
 
 1. Little brief of this software
 ----------------------------------
@@ -60,7 +60,7 @@ Current settings:
 - indent mode: tabs
 - indent size: 4
 
-####Documentation
+#### Documentation
 About the documentation of the code with [Doxygen](https://en.wikipedia.org/wiki/Doxygen), just a few directives:
 - each new function must be documented with at least the \brief, \param and \return tags;
 - any further documentation of undocumented variables/structs is well accepted;
