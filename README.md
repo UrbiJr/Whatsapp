@@ -3,7 +3,7 @@ Client menu             |  Client receives a message
 :-------------------------:|:-------------------------:
 ![](whatsapp_client_1.png)  |  ![](whatsapp_client_2.png)
 
-1. Little brief of this software
+## 1. Little brief of this software
 ----------------------------------
 
 Whatsapp is a pure C messaging application with the scope to guarantee multiuser and multilanguage support.
@@ -22,7 +22,7 @@ The key points of this software are:
 - possibility of dynamically change language
 - very low CPU cost since it's written in C
 
-2.1. Getting the repository
+## 2.1. Getting the repository
 ---------------------------
 
 ```sh
@@ -30,7 +30,7 @@ $ sudo apt-get install git
 $ git clone https://github.com/UrbiJr/Whatsapp.git
 $ cd Whatsapp/
 ```
-2.2. How to start
+## 2.2. How to start
 -----------------
 
 First of all, download ncurses header files:
@@ -51,7 +51,7 @@ CLIENT:
 To restore the folders and delete object files: `$ make clean`
 
 
-3. Contributing (for developers)
+## 3. Contributing (for developers)
 ----------------------------------
 
 Any contribute and improvement is well accepted.
@@ -67,9 +67,9 @@ About the documentation of the code with [Doxygen](https://en.wikipedia.org/wiki
 - it is suggested to use the Doxygen GUI frontend (Doxywizard) for a fastest generation of the documentation.
 
 For any question about Doxygen, and how to generate the documentation, please refer to www.doxygen.org  
-N.B. A copy of the current documentation is provided with this repository.
+N.B. A copy of the current documentation is provided with this repository.  
 
-4. Contact Information
+## 4. Contact Information
 ------------------------
 
 The maintainer of this project is Federico Urbinelli <federico.urbinelli@gmail.com>
