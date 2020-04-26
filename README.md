@@ -45,8 +45,8 @@ CLIENT:
 
 > execute command `$ ./Whatsapp [SERVADDR] [PORT]` where SERVADDR is the server address and PORT is its port
 
-To restore the folders and delete object files: `$ make clean`
-
+- To restore the folders and delete object files: `$ make clean`
+- Contacts are stored in respective indexbook.txt files (root folder).
 
 ## 3. Contributing (for developers)
 
@@ -67,4 +67,4 @@ N.B. A copy of the current documentation is provided with this repository.
 
 ## 4. Contact information
 
-The maintainer of this project is Federico Urbinelli <federico.urbinelli@gmail.com>
+The maintainer of this project is Federico Urbinelli <urbijr@t3k.industries>
