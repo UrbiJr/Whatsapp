@@ -1,3 +1,2 @@
-UrbiJr qwerty Federico Urbinelli
 marioGamer 123456 Mario Rossi
-giovi99 123456 Giovanni Pastrocchi
+Username password Firstname Lastname
