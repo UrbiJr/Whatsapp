@@ -19,7 +19,6 @@ The key points of this software are:
 - possibility of dynamically change user
 - possibility of dynamically add/remove user (client must reconnect)
 - possibility of dynamically change language
-- very low CPU cost since it's written in C
 
 ## 2.1. Getting the repository
 
